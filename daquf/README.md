@@ -1,2 +1,0 @@
-# DaQuF
-Data Quality Framework
